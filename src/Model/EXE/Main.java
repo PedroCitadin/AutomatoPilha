@@ -37,6 +37,8 @@ public class Main {
            String i  = ler.nextLine();
            at.setInicio(i);
            System.out.println(at.computa());
+           System.out.println("------------------");
+           System.out.println(at.computa());
            
            
             
